@@ -1,0 +1,17 @@
+.vscode/
+.test/
+.resources/
+tui/
+api/
+manifests/
+resources/
+v_lists/
+y3/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
